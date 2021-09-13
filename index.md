@@ -13,7 +13,7 @@
 <img src="./bori1.jpeg" width="300"/>
 
 ```html
-<img src="./bori1.jpeg" width="200"/>
+<img src="./bori1.jpeg" width="300"/>
 ```
 
 ### HTML 기본 style 속성 이용하여 css 코드 
