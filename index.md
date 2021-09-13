@@ -10,7 +10,7 @@
 
 ### HTML 기본 width 속성 이용
 
-<img src="./bori1.jpeg" width="200"/>
+<img src="./bori1.jpeg" width="300"/>
 
 ```html
 <img src="./bori1.jpeg" width="200"/>
