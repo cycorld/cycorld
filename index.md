@@ -4,7 +4,7 @@
 
 ![bori](./bori1.jpeg)
 
-```
+```markdown
 ![bori](./bori1.jpeg)
 ```
 
