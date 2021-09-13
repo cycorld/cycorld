@@ -5,18 +5,21 @@ You can use the [editor on GitHub](https://github.com/cycorld/cycorld/edit/gh-pa
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![bori](./bori1.jpeg)
+
 ```
 ![bori](./bori1.jpeg)
 ```
 
 <img src="./bori1.jpeg" width="200"/>
-```
+
+```html
 <img src="./bori1.jpeg" width="200"/>
 ```
 
 
 <img src="./bori1.jpeg" style="width: 200px"/>
-```
+
+```html
 <img src="./bori1.jpeg" style="width: 200px"/>
 ```
 
