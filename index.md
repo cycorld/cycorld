@@ -23,3 +23,6 @@
 ```html
 <img src="./bori1.jpeg" style="width: 200px"/>
 ```
+
+### Github Pages 에서 미리보기
+[링크](https://cycorld.github.io/cycorld/)
